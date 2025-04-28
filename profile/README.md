@@ -20,24 +20,24 @@ Rather than simply automating predefined tasks, this architecture represents an 
 
 ## Base Clusters
 
-### [MAS Core](https://github.com/MAS-Universal/MAS_Core)
+- [MAS Core](https://github.com/MAS-Universal/MAS_Core)
 
-### [MAS Action](https://github.com/MAS-Universal/MAS_Action)
+- [MAS Action](https://github.com/MAS-Universal/MAS_Action)
 
-### [MAS Environmental Awareness](https://github.com/MAS-Universal/MAS_Environmental_Awareness)
+- [MAS Environmental Awareness](https://github.com/MAS-Universal/MAS_Environmental_Awareness)
 
-### [MAS Intelligence](https://github.com/MAS-Universal/MAS_Intelligence)
+- [MAS Intelligence](https://github.com/MAS-Universal/MAS_Intelligence)
 
-### [MAS Interface](https://github.com/MAS-Universal/MAS_Interface)
+- [MAS Interface](https://github.com/MAS-Universal/MAS_Interface)
 
-### [MAS Knowledge Management](https://github.com/MAS-Universal/MAS_Knowledge_Management)
+- [MAS Knowledge Management](https://github.com/MAS-Universal/MAS_Knowledge_Management)
 
-### [MAS Orchestration](https://github.com/MAS-Universal/MAS_Orchestration)
+- [MAS Orchestration](https://github.com/MAS-Universal/MAS_Orchestration)
 
-### [MAS Planning](https://github.com/MAS-Universal/MAS_Planning)
+- [MAS Planning](https://github.com/MAS-Universal/MAS_Planning)
 
 ## Domain-Specific Clusters
 
-### [MAS Peptides](https://github.com/MAS-Universal/MAS_Peptides)
+- [MAS Peptides](https://github.com/MAS-Universal/MAS_Peptides)
 
-### [MAS Stocks](https://github.com/MAS-Universal/MAS_Stocks)
+- [MAS Stocks](https://github.com/MAS-Universal/MAS_Stocks)

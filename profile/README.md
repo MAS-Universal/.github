@@ -1,4 +1,5 @@
 # MAS Universal
+
 At its core, this architecture represents a comprehensive framework for building intelligent systems capable of addressing complex challenges across diverse domains. The architecture embodies a fractal philosophy where intelligence emerges through the orchestrated collaboration of specialized elements at multiple levels of abstraction.
 
 The framework is fundamentally recursive - each element is composed of smaller specialized elements, and multiple elements combine to form higher-order capabilities. This hierarchical structure enables both deep specialization and broad integration, allowing the system to handle intricate domain-specific tasks while maintaining coherent overall behavior.
@@ -17,13 +18,26 @@ This framework transcends the traditional distinctions between symbolic AI and c
 
 Rather than simply automating predefined tasks, this architecture represents an autonomous problem-solving partner that continuously evolves its capabilities, transparently explains its reasoning, and collaborates effectively with humans and other systems to achieve shared objectives.
 
-<!--
+## Base Clusters
 
-**Here are some ideas to get you started:**
+### [MAS Core](https://github.com/MAS-Universal/MAS_Core)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### [MAS Action](https://github.com/MAS-Universal/MAS_Action)
+
+### [MAS Environmental Awareness](https://github.com/MAS-Universal/MAS_Environmental_Awareness)
+
+### [MAS Intelligence](https://github.com/MAS-Universal/MAS_Intelligence)
+
+### [MAS Interface](https://github.com/MAS-Universal/MAS_Interface)
+
+### [MAS Knowledge Management](https://github.com/MAS-Universal/MAS_Knowledge_Management)
+
+### [MAS Orchestration](https://github.com/MAS-Universal/MAS_Orchestration)
+
+### [MAS Planning](https://github.com/MAS-Universal/MAS_Planning)
+
+## Domain-Specific Clusters
+
+### [MAS Peptides](https://github.com/MAS-Universal/MAS_Peptides)
+
+### [MAS Stocks](https://github.com/MAS-Universal/MAS_Stocks)
